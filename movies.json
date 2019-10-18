@@ -38,5 +38,37 @@
 	{
 		"title": "Sócrates",
 		"poster": "https://www.cinesystem.com.br/filmes/images/poster/socrates.jpg"
+	},
+	{
+		"title": "Coringa",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/350x518/coringa.jpg"
+	},
+	{
+		"title": "Malévola - Dona do Mal",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/350x518/malevola-dona-do-mal.jpg"
+	},
+	{
+		"title": "Pavarotti",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/350x518/pavarotti.jpg"
+	},
+	{
+		"title": "A Luta de Classes",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/210x310/a-luta-de-classes.jpg"
+	},
+	{
+		"title": "A Maratona de Brittany",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/210x310/a-maratona-de-brittany.jpg"
+	},
+	{
+		"title": "Os 3 Infernais",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/210x310/os-3-infernais.jpg"
+	},
+	{
+		"title": "Zumbilândia - Atire duas vezes",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/210x310/zumbilandia-atire-duas-vezes.jpg"
+	},
+	{
+		"title": "A Família Addams",
+		"poster": "https://www.cinesystem.com.br/filmes/images/poster/210x310/a-familia-addams.jpg"
 	}
 ]
